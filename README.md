@@ -1,5 +1,2 @@
-# 👋 Hi, I’m Min Thiha Aung ( Nathan James )
-
-- 👀 interested in Cross-Platform Development
-- 🌱 currently learning Dart & Flutter
-- ⚡ Fun fact: Flutter is really fun!
+👋 Hello! My name is Min Thiha Aung
+I’m currently on a journey to become a Flutter Ninja, focused on developing light and fast applications with precision and speed. Right now, I’m diving into Dart and Flutter..
