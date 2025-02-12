@@ -1,4 +1,4 @@
-# Hi there, I'm Min Thiha Aung (MgThiha-Coding) 👋
+# Hi there, I'm Min Thiha Aung 👋
 
 I'm a passionate Flutter developer on a journey to become a Flutter Ninja. I love exploring and contributing to various open-source projects, especially in the realm of cross-platform development.
 
