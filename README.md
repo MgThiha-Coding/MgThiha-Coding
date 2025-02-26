@@ -1,4 +1,4 @@
-# Hi there, I'm Min Thiha Aung 👋
+# Hi there👋, I'm Min Thiha Aung 
 
 I'm a passionate Flutter developer on a journey to become a Flutter Ninja.
 
