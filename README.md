@@ -1,6 +1,6 @@
 # Hi there👋, I'm Min Thiha Aung 
 
-I'm a passionate Flutter developer on a journey to become a Flutter Ninja.
+I'm a passionate developer on a journey to become a Flutter Ninja.
 
 
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
