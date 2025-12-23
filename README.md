@@ -11,3 +11,4 @@ I'm a passionate developer on a journey to become a Flutter Ninja 🐱‍👤
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
