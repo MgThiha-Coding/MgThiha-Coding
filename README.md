@@ -1,4 +1,4 @@
-# Hi there👋, I'm Nathan James
+# Hi there👋, I'm Min Thiha Aung
 
 I'm a passionate developer on a journey to become a Flutter Ninja 🐱‍👤
 
