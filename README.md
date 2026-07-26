@@ -28,6 +28,6 @@ For full-stack enterprise solutions and team-based projects, I work with **[Nexa
 ### 📬 Get in Touch
 Need custom software development or have a project in mind? Feel free to reach out!
 
-* 🌐 **Team Website:** [www.nexalogic.org](https://www.nexalogic.org)
-* ✉️ **Email:** your.email@example.com
-* 💼 **LinkedIn:** [Min Thiha Aung](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+* 🌐 **Website:** [www.nexalogic.org](https://www.nexalogic.org)
+* ✉️ **Email:** [info.nexalogic@gmail.com](mailto:info.nexalogic@gmail.com)
+* 💼 **LinkedIn:** [NexaLogic Team](https://www.linkedin.com/in/nexalogic-team-1878b241a/)
