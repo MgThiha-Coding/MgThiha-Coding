@@ -18,6 +18,10 @@ Passionate about building **high-quality mobile and web applications** with clea
 
 ### 🏗️ Architecture & Development
 
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="48" />
+</p>
+
 **Clean Architecture · MVVM · Git**
 
 ### ☁️ Backend & Database
@@ -37,8 +41,9 @@ For enterprise software and full-stack development projects, I collaborate with 
 ### 💻 Backend & Web
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,typescript" height="48" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" height="48" />
   <img src="https://cdn.simpleicons.org/blazor/512BD4" height="48" alt="Blazor" />
+  <img src="https://skillicons.dev/icons?i=react,typescript" height="48" />
 </p>
 
 **C# · .NET · Blazor · React · TypeScript**
@@ -57,8 +62,8 @@ For enterprise software and full-stack development projects, I collaborate with 
 
 If you're looking for custom software development or would like to discuss a project, feel free to reach out.
 
-🌐 **Website** · https://www.nexalogic.org
-✉️ **Email** · [info.nexalogic@gmail.com](mailto:info.nexalogic@gmail.com)
+🌐 **Website** · https://www.nexalogic.org  
+✉️ **Email** · info.nexalogic@gmail.com  
 💼 **LinkedIn** · https://www.linkedin.com/in/nexalogic-team-1878b241a/
 
 ---
