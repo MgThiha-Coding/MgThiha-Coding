@@ -32,14 +32,6 @@ Passionate about building **high-quality mobile and web applications** with clea
 
 **Firebase · Supabase · MongoDB**
 
-### ☁️ Cloud & Storage
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,cloudflare" height="48" />
-</p>
-
-**AWS · Cloudflare R2**
-
 ---
 
 ## 👥 Team & Collaboration
@@ -63,6 +55,14 @@ For enterprise software and full-stack development projects, I collaborate with 
 </p>
 
 **MySQL · MongoDB · Firebase · Supabase**
+
+### ☁️ Cloud & Storage
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,cloudflare" height="48" />
+</p>
+
+**AWS · Cloudflare R2**
 
 ---
 
