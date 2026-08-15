@@ -1,76 +1,32 @@
-# Hi there 👋 I'm **Min Thiha Aung**
+# 👋 Hi, I'm **Min Thiha Aung**
 
-### Self-Taught Software Developer
-
-Passionate about building high-quality **mobile and web applications**
-with clean architecture, scalable solutions, and great user experiences.
+**Self-Taught Software Developer** passionate about building clean, scalable,
+and user-focused mobile & web applications.
 
 ---
 
-## 🚀 Personal Tech Stack
+## 🛠️ Tech Stack
 
-### Mobile Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=dart,flutter" />
-</p>
-
-**Dart · Flutter · Riverpod · BLoC**
-
-### Architecture & Development
+### 👨‍💻 Personal
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,supabase,mongodb,git" />
 </p>
 
-**Clean Architecture · MVVM · Git**
+**Dart · Flutter · Riverpod · BLoC · Clean Architecture · MVVM · Git · Firebase · Supabase · MongoDB**
 
-### Backend & Database
+### 👥 NexaLogic Team
 
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor,react,typescript,mysql,mongodb,firebase,supabase" />
 </p>
 
-**Firebase · Supabase · MongoDB**
+**C# · .NET · Blazor · React · TypeScript · MySQL · MongoDB · Firebase · Supabase**
 
 ---
 
-## 👥 NexaLogic Team
+## 📬 Connect
 
-For enterprise software and full-stack development projects,
-I collaborate with **NexaLogic**, delivering modern web and mobile solutions.
-
-### Backend & Web
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor,react,typescript" />
-</p>
-
-**C# · .NET · Blazor · React · TypeScript**
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" />
-</p>
-
-**MySQL · MongoDB · Firebase · Supabase**
-
----
-
-## 📬 Get in Touch
-
-🌐 **Website**  
-https://www.nexalogic.org
-
-✉️ **Email**  
-info.nexalogic@gmail.com
-
-💼 **LinkedIn**  
-https://www.linkedin.com/in/nexalogic-team-1878b241a/
-
----
-
-<p align="center">
-  <b>Building software with passion and solving real-world problems. 🚀</b>
-</p>
+🌐 [nexalogic.org](https://www.nexalogic.org) ·
+✉️ info.nexalogic@gmail.com ·
+💼 [LinkedIn](https://www.linkedin.com/in/nexalogic-team-1878b241a/)
