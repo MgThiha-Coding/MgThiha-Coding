@@ -2,29 +2,28 @@
 
 ### Self-Taught Software Developer
 
-Passionate about building **high-quality mobile and web applications**
-with clean architecture, scalable solutions, and great user experiences.
+Passionate about building **high-quality mobile and web applications** with clean architecture, scalable solutions, and great user experiences.
 
 ---
 
 ## 🚀 Personal Tech Stack
 
-### Mobile Development
+### 📱 Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dart,flutter" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter" height="48" />
 </p>
 
 **Dart · Flutter · Riverpod · BLoC**
 
-### Architecture & Development
+### 🏗️ Architecture & Development
 
 **Clean Architecture · MVVM · Git**
 
-### Backend & Database
+### ☁️ Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb" />
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb" height="48" />
 </p>
 
 **Firebase · Supabase · MongoDB**
@@ -33,23 +32,21 @@ with clean architecture, scalable solutions, and great user experiences.
 
 ## 👥 Team & Collaboration
 
-For enterprise software and full-stack development projects,
-I collaborate with **NexaLogic**, delivering modern web and mobile solutions.
+For enterprise software and full-stack development projects, I collaborate with **NexaLogic**, delivering modern web and mobile solutions.
 
-### Team Expertise
-
-**Backend & Web**
+### 💻 Backend & Web
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor,react,typescript" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,typescript" height="48" />
+  <img src="https://cdn.simpleicons.org/blazor/512BD4" height="48" alt="Blazor" />
 </p>
 
 **C# · .NET · Blazor · React · TypeScript**
 
-**Databases**
+### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" height="48" />
 </p>
 
 **MySQL · MongoDB · Firebase · Supabase**
@@ -60,8 +57,8 @@ I collaborate with **NexaLogic**, delivering modern web and mobile solutions.
 
 If you're looking for custom software development or would like to discuss a project, feel free to reach out.
 
-🌐 **Website** · https://www.nexalogic.org  
-✉️ **Email** · info.nexalogic@gmail.com  
+🌐 **Website** · https://www.nexalogic.org
+✉️ **Email** · [info.nexalogic@gmail.com](mailto:info.nexalogic@gmail.com)
 💼 **LinkedIn** · https://www.linkedin.com/in/nexalogic-team-1878b241a/
 
 ---
