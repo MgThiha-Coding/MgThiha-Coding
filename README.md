@@ -1,74 +1,63 @@
-# 👋 Hi there, I'm **Min Thiha Aung**
+# 👋 Hi, I'm **Min Thiha Aung**
 
 ### Self-Taught Software Developer
 
-Passionate about building **high-quality mobile and web applications** with clean architecture, scalable solutions, and great user experiences.
+I build **modern mobile and web applications** with a focus on clean architecture, scalable solutions, and intuitive user experiences.
 
 ---
 
-## 🚀 Personal Tech Stack
+## 🛠️ Tech Stack
 
-### 📱 Mobile Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=dart,flutter" height="48" />
-</p>
-
-**Dart · Flutter · Riverpod · BLoC**
-
-### 🏗️ Architecture & Development
+**Mobile**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git" height="48" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter" height="42" />
 </p>
 
-**Clean Architecture · MVVM · Git**
+`Dart` · `Flutter` · `Riverpod` · `BLoC`
 
-### ☁️ Backend & Database
+**Architecture & Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb" height="48" />
+  <img src="https://skillicons.dev/icons?i=git" height="42" />
 </p>
 
-**Firebase · Supabase · MongoDB**
+`Clean Architecture` · `MVVM` · `Git`
+
+**Backend & Database**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb" height="42" />
+</p>
+
+`Firebase` · `Supabase` · `MongoDB`
 
 ---
 
-## 👥 Team & Collaboration
+## 🤝 Collaboration
 
-For enterprise software and full-stack development projects, I collaborate with **NexaLogic**, delivering modern web and mobile solutions.
+For **enterprise and full-stack projects**, I collaborate with **NexaLogic** to build scalable web and mobile solutions.
 
-### 💻 Backend & Web
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" height="48" />
-  <img src="https://cdn.simpleicons.org/blazor/512BD4" height="48" alt="Blazor" />
-  <img src="https://skillicons.dev/icons?i=react,typescript" height="48" />
-</p>
-
-**C# · .NET · Blazor · React · TypeScript**
-
-### 🗄️ Databases
+**Web & Backend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" height="48" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,typescript" height="42" />
+  <img src="https://cdn.simpleicons.org/blazor/512BD4" height="42" alt="Blazor" />
 </p>
 
-**MySQL · MongoDB · Firebase · Supabase**
+`C#` · `.NET` · `Blazor` · `React` · `TypeScript`
 
-### ☁️ Cloud & Storage
+**Data & Cloud**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,cloudflare" height="48" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,aws,cloudflare" height="42" />
 </p>
 
-**AWS · Cloudflare R2**
+`MySQL` · `MongoDB` · `Firebase` · `Supabase` · `AWS` · `Cloudflare R2`
 
 ---
 
-## 📬 Get in Touch
-
-If you're looking for custom software development or would like to discuss a project, feel free to reach out.
+## 📬 Connect
 
 🌐 **Website** · https://www.nexalogic.org
 ✉️ **Email** · [info.nexalogic@gmail.com](mailto:info.nexalogic@gmail.com)
@@ -77,5 +66,5 @@ If you're looking for custom software development or would like to discuss a pro
 ---
 
 <p align="center">
-  <b>Building quality software with clean architecture and great user experiences. 🚀</b>
+  <i>Building reliable software with clean architecture and meaningful user experiences.</i>
 </p>
