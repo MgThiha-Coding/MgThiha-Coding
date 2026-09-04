@@ -1,14 +1,14 @@
 # 👋 Hi, I'm **Min Thiha Aung**
 
-### Self-Taught Software Developer
+### Flutter Developer
 
-I build **modern mobile and web applications** with a focus on clean architecture, scalable solutions, and intuitive user experiences.
+I build **mobile applications with Flutter and Dart**, focusing on clean architecture, maintainable code, and practical user experiences.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Mobile**
+**Mobile Development**
 
 <p>
   <img src="https://skillicons.dev/icons?i=dart,flutter" height="42" />
@@ -16,55 +16,37 @@ I build **modern mobile and web applications** with a focus on clean architectur
 
 `Dart` · `Flutter` · `Riverpod` · `BLoC`
 
-**Architecture & Tools**
+**Architecture & Development**
 
 <p>
   <img src="https://skillicons.dev/icons?i=git" height="42" />
 </p>
 
-`Clean Architecture` · `MVVM` · `Git`
+`Feature-first MVVM` · `Clean Architecture` · `Git`
 
-**Backend & Database**
+**API & Backend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb" height="42" />
+  <img src="https://skillicons.dev/icons?i=postman,supabase,firebase" height="42" />
 </p>
 
-`Firebase` · `Supabase` · `MongoDB`
+`REST API` · `Postman` · `Supabase` · `Firebase`
 
 ---
 
 ## 🤝 Collaboration
 
-For **enterprise and full-stack projects**, I collaborate with **NexaLogic** to build scalable web and mobile solutions.
-
-**Web & Backend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,typescript" height="42" />
-  <img src="https://cdn.simpleicons.org/blazor/512BD4" height="42" alt="Blazor" />
-</p>
-
-`C#` · `.NET` · `Blazor` · `React` · `TypeScript`
-
-**Data & Cloud**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,aws,cloudflare" height="42" />
-</p>
-
-`MySQL` · `MongoDB` · `Firebase` · `Supabase` · `AWS` · `Cloudflare R2`
+I collaborate on **web and mobile software projects**, contributing to application development, API integration, and maintainable software architecture.
 
 ---
 
 ## 📬 Connect
 
 🌐 **Website** · https://www.nexalogic.org
-✉️ **Email** · [info.nexalogic@gmail.com](mailto:info.nexalogic@gmail.com)
 💼 **LinkedIn** · https://www.linkedin.com/in/nexalogic-team-1878b241a/
 
 ---
 
 <p align="center">
-  <i>Building reliable software with clean architecture and meaningful user experiences.</i>
+  <i>Building reliable mobile applications with clean and maintainable code.</i>
 </p>
