@@ -1,17 +1,11 @@
 # Min Thiha Aung (Nathan James)
 
-### Co-Founder & Lead Developer at NexaLogic
+### Lead Developer at NexaLogic
 Focusing on structured system development, clean architecture, and practical software solutions.
 
 ---
 
-## About Me
-
-I am a Co-Founder and Lead Developer at NexaLogic. I oversee and contribute to development across web and mobile ecosystems, focusing on writing clean, maintainable code and implementing dependable architectural principles to deliver consistent user experiences.
-
----
-
-## Technical Experience
+## Technical Stack
 
 ### Mobile & Frontend Development
 * Dart & Flutter Framework
@@ -26,13 +20,13 @@ I am a Co-Founder and Lead Developer at NexaLogic. I oversee and contribute to d
 ### Backend & API Integration
 * REST API Development & Integration
 * Postman API Testing
-* Cloud & Database Services (Supabase / Firebase)
+* Supabase & Firebase Services
 
 ---
 
 ## Collaboration & NexaLogic
 
-I work alongside the team at **NexaLogic** on professional web and mobile software projects, contributing to:
+I work alongside the team at **NexaLogic** on web and mobile software projects, contributing to:
 * **System Development** — Building standard, production-ready software solutions.
 * **API Integration** — Connecting frontend clients with stable backend ecosystems.
 * **Software Architecture** — Implementing clean, structured, and future-proof codebases.
