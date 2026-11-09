@@ -1,41 +1,47 @@
-# Min Thiha Aung
+# Min Thiha Aung (Nathan James)
 
-### Flutter Developer
-Building reliable mobile applications with clean architecture and practical user experiences.
+### Co-Founder & Flutter Developer at NexaLogic
+Focusing on structured mobile development, clean architecture, and practical software solutions.
 
 ---
 
-## Technical Stack
+## About Me
+
+I am a Co-Founder and Developer at NexaLogic, where I focus on building cross-platform mobile applications using Flutter and Dart. My primary goal is to write clean, maintainable code and implement dependable architectural principles to deliver consistent user experiences.
+
+---
+
+## Technical Experience
 
 ### Mobile Development
-* Dart Language
-* Flutter Framework
-* Riverpod State Management
-* BLoC Pattern
+* Dart
+* Flutter
+* Riverpod
+* BLoC
 
-### Architecture & Tools
+### Architecture & Workflows
 * Feature-first MVVM
 * Clean Architecture
-* Git Version Control
+* Git
 
-### API & Backend Services
-* REST API Integration
-* Postman API Testing
-* Supabase Platform
-* Firebase Suite
+### Backend & API Integration
+* REST API
+* Postman
+* Supabase
+* Firebase
 
 ---
 
 ## Collaboration & NexaLogic
 
-I actively collaborate with **NexaLogic** on professional web and mobile software projects, contributing to:
-* **Application Development** — Crafting high-performance mobile solutions.
-* **API Integration** — Delivering seamless frontend and REST API connectivity.
-* **Software Architecture** — Designing clean, scalable, and highly maintainable codebases.
+I work alongside the team at **NexaLogic** on web and mobile software projects, contributing to:
+* **Application Development** — Developing standard mobile solutions.
+* **API Integration** — Connecting mobile clients with backend REST APIs.
+* **Software Architecture** — Implementing clean and structured codebases.
 
 ---
 
 ## Contact
 
-* **Website:** [nexalogic.org](https://nexalogic.org)
+* **Website:** [nexalogic.org](https://www.nexalogic.org)
 * **LinkedIn:** [NexaLogic Team](https://linkedin.com)
