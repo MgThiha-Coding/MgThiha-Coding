@@ -1,34 +1,41 @@
-# 👋 Hi, I'm Min Thiha Aung
-### `Flutter Developer`
+# Min Thiha Aung
 
-> **Building reliable mobile applications with clean architecture and practical user experiences.**
-
----
-
-## 🛠️ Tech Stack
-
-### 📱 Mobile Development
-* `Dart` · `Flutter` · `Riverpod` · `BLoC`
-
-### 🏗️ Architecture & Development
-* `Feature-first MVVM` · `Clean Architecture` · `Git`
-
-### 🌐 API & Backend
-* `REST API` · `Postman` · `Supabase` · `Firebase`
+### Flutter Developer
+Building reliable mobile applications with clean architecture and practical user experiences.
 
 ---
 
-## 🤝 Collaboration & NexaLogic
+## Technical Stack
+
+### Mobile Development
+* Dart Language
+* Flutter Framework
+* Riverpod State Management
+* BLoC Pattern
+
+### Architecture & Tools
+* Feature-first MVVM
+* Clean Architecture
+* Git Version Control
+
+### API & Backend Services
+* REST API Integration
+* Postman API Testing
+* Supabase Platform
+* Firebase Suite
+
+---
+
+## Collaboration & NexaLogic
 
 I actively collaborate with **NexaLogic** on professional web and mobile software projects, contributing to:
-
-* **Application Development** — Building high-performance mobile solutions.
+* **Application Development** — Crafting high-performance mobile solutions.
 * **API Integration** — Delivering seamless frontend and REST API connectivity.
 * **Software Architecture** — Designing clean, scalable, and highly maintainable codebases.
 
 ---
 
-## 📬 Connect
+## Contact
 
-* 🌐 **Website** — [nexalogic.org](https://nexalogic.org)
-* 💼 **LinkedIn** — [NexaLogic Team](https://linkedin.com)
+* **Website:** [nexalogic.org](https://nexalogic.org)
+* **LinkedIn:** [NexaLogic Team](https://linkedin.com)
