@@ -8,27 +8,27 @@
 ## 🛠️ Tech Stack
 
 ### 📱 Mobile Development
-* `Dart`
-* `Flutter`
-* `Riverpod`
-* `BLoC`
+* `Dart` · `Flutter` · `Riverpod` · `BLoC`
 
 ### 🏗️ Architecture & Development
-* `Feature-first MVVM`
-* `Clean Architecture`
-* `Git`
+* `Feature-first MVVM` · `Clean Architecture` · `Git`
 
 ### 🌐 API & Backend
-* `REST API`
-* `Postman`
-* `Supabase`
-* `Firebase`
+* `REST API` · `Postman` · `Supabase` · `Firebase`
 
 ---
 
-## 🤝 Collaboration
+## 🤝 Collaboration & NexaLogic
 
-I collaborate on **web and mobile software projects**, contributing to:
-* **Application Development** — Crafting cross-platform mobile solutions.
-* **API Integration** — Connecting frontend with stable REST APIs.
-* **Architecture** — Designing clean and maintainable codebases.
+I actively collaborate with **NexaLogic** on professional web and mobile software projects, contributing to:
+
+* **Application Development** — Building high-performance mobile solutions.
+* **API Integration** — Delivering seamless frontend and REST API connectivity.
+* **Software Architecture** — Designing clean, scalable, and highly maintainable codebases.
+
+---
+
+## 📬 Connect
+
+* 🌐 **Website** — [nexalogic.org](https://nexalogic.org)
+* 💼 **LinkedIn** — [NexaLogic Team](https://linkedin.com)
