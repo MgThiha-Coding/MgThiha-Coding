@@ -1,47 +1,45 @@
 # Min Thiha Aung (Nathan James)
 
-### Co-Founder & Flutter Developer at NexaLogic
-Focusing on structured mobile development, clean architecture, and practical software solutions.
+### Co-Founder & Lead Developer at NexaLogic
+Focusing on structured system development, clean architecture, and practical software solutions.
 
 ---
 
 ## About Me
 
-I am a Co-Founder and Developer at NexaLogic, where I focus on building cross-platform mobile applications using Flutter and Dart. My primary goal is to write clean, maintainable code and implement dependable architectural principles to deliver consistent user experiences.
+I am a Co-Founder and Lead Developer at NexaLogic. I oversee and contribute to development across web and mobile ecosystems, focusing on writing clean, maintainable code and implementing dependable architectural principles to deliver consistent user experiences.
 
 ---
 
 ## Technical Experience
 
-### Mobile Development
-* Dart
-* Flutter
-* Riverpod
-* BLoC
+### Mobile & Frontend Development
+* Dart & Flutter Framework
+* State Management (Riverpod / BLoC)
+* Cross-Platform Application Development
 
 ### Architecture & Workflows
 * Feature-first MVVM
 * Clean Architecture
-* Git
+* Git Version Control
 
 ### Backend & API Integration
-* REST API
-* Postman
-* Supabase
-* Firebase
+* REST API Development & Integration
+* Postman API Testing
+* Cloud & Database Services (Supabase / Firebase)
 
 ---
 
 ## Collaboration & NexaLogic
 
-I work alongside the team at **NexaLogic** on web and mobile software projects, contributing to:
-* **Application Development** — Developing standard mobile solutions.
-* **API Integration** — Connecting mobile clients with backend REST APIs.
-* **Software Architecture** — Implementing clean and structured codebases.
+I work alongside the team at **NexaLogic** on professional web and mobile software projects, contributing to:
+* **System Development** — Building standard, production-ready software solutions.
+* **API Integration** — Connecting frontend clients with stable backend ecosystems.
+* **Software Architecture** — Implementing clean, structured, and future-proof codebases.
 
 ---
 
 ## Contact
 
-* **Website:** [nexalogic.org](https://www.nexalogic.org)
+* **Website:** [nexalogic.org](https://nexalogic.org)
 * **LinkedIn:** [NexaLogic Team](https://linkedin.com)
