@@ -3,11 +3,6 @@
 # 👋 Hi, I'm Min Thiha Aung
 ### Flutter Developer
 
-<p align="center">
-  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn" /></a>
-  <a href="https://nexalogic.org"><img src="https://shields.io" alt="Website" /></a>
-</p>
-
 ---
 
 #### ⚡ Building reliable mobile applications with clean architecture and practical user experiences.
