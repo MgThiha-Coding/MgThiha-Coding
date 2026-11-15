@@ -1,43 +1,34 @@
 # Min Thiha Aung (Nathan James)
 
 ### Software Developer at NexaLogic
-Focused on building maintainable applications, clean codebases, and practical software solutions.
+Building clean and practical mobile applications.
 
 ---
 
-## Technical Stack
+## Tech Stack
 
-### Mobile & Frontend Development
-![Dart](https://shields.io)
-![Flutter](https://shields.io)
-* **Framework & Language:** Dart & Flutter for cross-platform mobile applications.
-* **State Management:** Riverpod & BLoC.
+<p align="left">
+  <img src="https://jsdelivr.net" alt="Dart" width="35" height="35" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" alt="Flutter" width="35" height="35" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" alt="Firebase" width="35" height="35" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" alt="Supabase" width="35" height="35" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" alt="Postman" width="35" height="35" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" alt="Git" width="35" height="35" />
+</p>
 
-### Architecture & Workflows
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-* **Patterns:** Feature-first MVVM & Clean Architecture principles.
-* **Version Control:** Git workflow for team collaboration.
-
-### Backend & API Integration
-![Postman](https://shields.io)
-![Supabase](https://shields.io)
-![Firebase](https://shields.io)
-* **API & Testing:** REST API integration and testing with Postman.
-* **BaaS:** Experience working with Supabase and Firebase services.
+* **Mobile:** Flutter, Dart (Riverpod, BLoC)
+* **Architecture:** Feature-first MVVM, Clean Architecture
+* **Backend & Tools:** REST API, Firebase, Supabase, Postman, Git
 
 ---
 
-## Collaboration & NexaLogic
+## About
 
-I collaborate with the team at **NexaLogic** on web and mobile software projects, focusing on:
-* **Application Development** — Assisting in building reliable, user-focused software.
-* **API Integration** — Connecting client-side interfaces with backend services.
-* **Code Maintainability** — Writing organized and readable code to support long-term team workflows.
+Working with the team at **NexaLogic** to build web and mobile applications, focusing on clean code and smooth API integration.
 
 ---
 
 ## Contact
 
 * **Website:** [nexalogic.org](https://nexalogic.org)
-* **LinkedIn:** [NexaLogic Team](https://www.linkedin.com/in/nexalogic-team-1878b241a/)
+* **LinkedIn:** [NexaLogic Team](https://linkedin.com)
