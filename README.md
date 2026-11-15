@@ -25,4 +25,4 @@ Working with the team at **NexaLogic** to build web and mobile applications, foc
 ## Contact
 
 * **Website:** [nexalogic.org](https://nexalogic.org)
-* **LinkedIn:** [NexaLogic Team](https://linkedin.com)
+* **LinkedIn:** [NexaLogic Team](https://www.linkedin.com/in/nexalogic-team-1878b241a/)
