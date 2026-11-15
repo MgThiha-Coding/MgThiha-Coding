@@ -8,12 +8,12 @@ Building clean and practical mobile applications.
 ## Tech Stack
 
 <p align="left">
-  <img src="https://jsdelivr.net" alt="Dart" width="35" height="35" />&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" alt="Flutter" width="35" height="35" />&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" alt="Firebase" width="35" height="35" />&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" alt="Supabase" width="35" height="35" />&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" alt="Postman" width="35" height="35" />&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" alt="Git" width="35" height="35" />
+  <img src="https://githubusercontent.com" alt="Dart" width="35" height="35" />&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="Flutter" width="35" height="35" />&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="Firebase" width="35" height="35" />&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="Supabase" width="35" height="35" />&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="Postman" width="35" height="35" />&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="Git" width="35" height="35" />
 </p>
 
 * **Mobile:** Flutter, Dart (Riverpod, BLoC)
