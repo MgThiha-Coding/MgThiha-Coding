@@ -7,18 +7,12 @@ Building clean and practical mobile applications.
 
 ## Tech Stack
 
-<p align="left">
-  <img src="https://githubusercontent.com" alt="Dart" width="35" height="35" />&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" alt="Flutter" width="35" height="35" />&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" alt="Firebase" width="35" height="35" />&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" alt="Supabase" width="35" height="35" />&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" alt="Postman" width="35" height="35" />&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" alt="Git" width="35" height="35" />
-</p>
-
-* **Mobile:** Flutter, Dart (Riverpod, BLoC)
-* **Architecture:** Feature-first MVVM, Clean Architecture
-* **Backend & Tools:** REST API, Firebase, Supabase, Postman, Git
+| Category | Technologies |
+| :--- | :--- |
+| **Mobile & Frontend** | `Flutter` `Dart` `Riverpod` `BLoC` |
+| **Architecture** | `Feature-first MVVM` `Clean Architecture` |
+| **Backend & Services** | `REST API` `Firebase` `Supabase` |
+| **Tools & Workflow** | `Git` `Postman` |
 
 ---
 
